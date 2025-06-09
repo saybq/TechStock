@@ -3,7 +3,7 @@ import java.sql.*;
 public class DatabaseManager {
 	 private static final String URL = "jdbc:mysql://localhost:3306/inventoryDB";
 	    private static final String USER = "root";
-	    private static final String PASSWORD = "dolor_clint2205";
+	    private static final String PASSWORD = "______________";
 
 	    private Connection conn;
 
