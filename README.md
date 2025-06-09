@@ -1,3 +1,6 @@
+
+![dashboardLogo](https://github.com/user-attachments/assets/cf08a514-2a94-4577-af28-ec58f0d576af)
+
 System Overview
 TechStock is a desktop-based inventory management application developed using Java
 and a graphical user interface (GUI). It is intended to assist users manage stock items more
