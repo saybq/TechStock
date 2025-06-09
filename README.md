@@ -7,6 +7,6 @@ TechStock is a desktop-based inventory management application developed using Ja
 
 Features:
 	● INSERT : Add items to the inventory
-  ● REMOVE : Delete a existing item
-  ● UPDATE : Modify item details
+  	● REMOVE : Delete a existing item
+  	● UPDATE : Modify item details
 	● SQL : Connected to a Database
